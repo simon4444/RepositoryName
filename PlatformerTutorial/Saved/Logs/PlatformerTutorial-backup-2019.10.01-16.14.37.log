@@ -1,0 +1,1480 @@
+﻿Log file open, 10/01/19 14:50:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PlatformerTutorial
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.281969
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.335s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 660 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.104s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.10.01-04.51.00:381][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.01-04.51.00:381][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.01-04.51.00:404][  0]LogHAL: Display: Platform has ~ 32 GB [34319237120 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.01-04.51.00:404][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.10.01-04.51.00:404][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.01-04.51.00:404][  0]LogInit: Computer: SYD-D2E2B0
+[2019.10.01-04.51.00:404][  0]LogInit: User: s192125
+[2019.10.01-04.51.00:404][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.01-04.51.00:404][  0]LogInit: High frequency timer resolution =3.323585 MHz
+[2019.10.01-04.51.00:404][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.10.01-04.51.00:404][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.01-04.51.00:404][  0]LogMemory: Process Physical Memory: 100.34 MB used, 100.34 MB peak
+[2019.10.01-04.51.00:404][  0]LogMemory: Process Virtual Memory: 89.47 MB used, 89.47 MB peak
+[2019.10.01-04.51.00:405][  0]LogMemory: Physical Memory: 4117.01 MB used,  28612.37 MB free, 32729.38 MB total
+[2019.10.01-04.51.00:405][  0]LogMemory: Virtual Memory: 4638.47 MB used,  28612.37 MB free, 134217728.00 MB total
+[2019.10.01-04.51.00:421][  0]LogInit: Using OS detected language (en-US).
+[2019.10.01-04.51.00:421][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.01-04.51.00:422][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.01-04.51.00:799][  0]LogStreaming: Display: Took  0.378s to InitEngineTextLocalization.
+[2019.10.01-04.51.00:800][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.01-04.51.00:837][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.01-04.51.00:837][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.01-04.51.01:032][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.01-04.51.01:032][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.01-04.51.01:095][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660 Ti' (Feature Level 11_0)
+[2019.10.01-04.51.01:095][  0]LogD3D11RHI:       1998/0/16364 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.01-04.51.01:098][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.01-04.51.01:098][  0]LogD3D11RHI:       0/0/16364 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.01-04.51.01:098][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.01-04.51.01:103][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.01-04.51.01:103][  0]LogD3D11RHI:     GPU DeviceId: 0x1183 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.01-04.51.01:103][  0]LogWindows: EnumDisplayDevices:
+[2019.10.01-04.51.01:103][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:1)
+[2019.10.01-04.51.01:103][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660 Ti' (P:1 D:1)
+[2019.10.01-04.51.01:103][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2019.10.01-04.51.01:103][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660 Ti' (P:0 D:0)
+[2019.10.01-04.51.01:104][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.01-04.51.01:104][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660 Ti
+[2019.10.01-04.51.01:104][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.10.01-04.51.01:104][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.10.01-04.51.01:104][  0]LogRHI: Texture pool is 1398 MB (70% of 1998 MB)
+[2019.10.01-04.51.01:149][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.01-04.51.01:165][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.01-04.51.01:167][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (L:/RepositoryName/RepositoryName/PlatformerTutorial/Intermediate/Shaders/WorkingDirectory/7488/).
+[2019.10.01-04.51.01:168][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/s192125/AppData/Local/Temp/UnrealShaderWorkingDir/849DFE134B6444BA1BB3099575AB76B3/'.
+[2019.10.01-04.51.01:427][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.10.01-04.51.01:443][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.10.01-04.51.01:458][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.10.01-04.51.01:473][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.10.01-04.51.01:489][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.10.01-04.51.01:504][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.10.01-04.51.01:524][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.10.01-04.51.01:547][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.10.01-04.51.01:556][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.10.01-04.51.01:645][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.10.01-04.51.01:710][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.01-04.51.01:710][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.10.01-04.51.01:740][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.01-04.51.01:740][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.10.01-04.51.01:754][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.10.01-04.51.01:769][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.10.01-04.51.01:783][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.10.01-04.51.01:799][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.10.01-04.51.01:808][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.10.01-04.51.01:808][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.01-04.51.01:859][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.01-04.51.01:859][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.01-04.51.01:859][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.01-04.51.02:605][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.01-04.51.02:660][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/s192125/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.01-04.51.02:660][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/s192125/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.10.01-04.51.02:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file L:/RepositoryName/RepositoryName/PlatformerTutorial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.01-04.51.02:661][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.01-04.51.02:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file L:/RepositoryName/RepositoryName/PlatformerTutorial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.01-04.51.02:661][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.01-04.51.02:673][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.01-04.51.02:686][  0]LogDerivedDataCache: Using Local data cache path C:/Users/s192125/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.01-04.51.02:686][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.01-04.51.02:686][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.01-04.51.02:705][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.01-04.51.02:706][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.01-04.51.02:707][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.01-04.51.02:779][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2019.10.01-04.51.03:162][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.01-04.51.03:293][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.10.01-04.51.03:296][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.10.01-04.51.03:296][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.01-04.51.03:296][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.01-04.51.03:296][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.10.01-04.51.03:312][  0]LogNetVersion: PlatformerTutorial 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1667836569)
+[2019.10.01-04.51.04:148][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.427485 seconds
+[2019.10.01-04.51.04:155][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.10.01-04.51.04:155][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.10.01-04.51.04:155][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.01-04.51.04:991][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.01-04.51.05:004][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.01-04.51.05:004][  0]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.01-04.51.05:154][  0]SourceControl: Source control is disabled
+[2019.10.01-04.51.05:154][  0]SourceControl: Source control is disabled
+[2019.10.01-04.51.05:156][  0]SourceControl: Source control is disabled
+[2019.10.01-04.51.05:156][  0]SourceControl: Source control is disabled
+[2019.10.01-04.51.05:349][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.01-04.51.05:398][  0]LogOcInput: OculusInput pre-init called
+[2019.10.01-04.51.05:463][  0]LogEngine: Initializing Engine...
+[2019.10.01-04.51.05:463][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.01-04.51.05:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.01-04.51.05:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.01-04.51.05:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.10.01-04.51.05:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.01-04.51.05:705][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.01-04.51.05:719][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.01-04.51.05:726][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-04.51.05:749][  0]LogInit: FAudioDevice initialized.
+[2019.10.01-04.51.05:749][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.01-04.51.05:833][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/s192125/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.10.01-04.51.05:857][  0]LogInit: Texture streaming: Enabled
+[2019.10.01-04.51.05:874][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.01-04.51.05:888][  0]LogInit: Transaction tracking system initialized
+[2019.10.01-04.51.05:908][  0]BlueprintLog: New page: Editor Load
+[2019.10.01-04.51.05:985][  0]LocalizationService: Localization service is disabled
+[2019.10.01-04.51.06:262][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.01-04.51.06:262][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.01-04.51.06:262][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.10.01-04.51.06:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.10.01-04.51.06:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.10.01-04.51.06:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.10.01-04.51.06:262][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.10.01-04.51.06:383][  0]LogFileCache: Scanning file cache for directory 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/' took 0.02s
+[2019.10.01-04.51.06:383][  0]SourceControl: Source control is disabled
+[2019.10.01-04.51.06:383][  0]Cmd: MAP LOAD FILE="L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.01-04.51.06:384][  0]LightingResults: New page: Lighting Build
+[2019.10.01-04.51.06:386][  0]MapCheck: New page: Map Check
+[2019.10.01-04.51.06:386][  0]LightingResults: New page: Lighting Build
+[2019.10.01-04.51.07:647][  0]LogAIModule: Creating AISystem for world Level_1
+[2019.10.01-04.51.07:658][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.01-04.51.07:682][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.01-04.51.07:769][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.426ms to complete.
+[2019.10.01-04.51.07:769][  0]LogFileHelpers: Loading map 'Level_1' took 1.386
+[2019.10.01-04.51.07:882][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-04.51.07:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-04.51.07:896][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-04.51.07:904][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-04.51.07:914][  0]LogCollectionManager: Loaded 0 collections in 0.002880 seconds
+[2019.10.01-04.51.07:957][  0]LogFileCache: Scanning file cache for directory 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Collections/' took 0.01s
+[2019.10.01-04.51.07:957][  0]LogFileCache: Scanning file cache for directory 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/Developers/s192125/Collections/' took 0.01s
+[2019.10.01-04.51.07:957][  0]LogFileCache: Scanning file cache for directory 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/Collections/' took 0.01s
+[2019.10.01-04.51.07:957][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.01-04.51.07:967][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2572 classes and 603 folders.
+[2019.10.01-04.51.07:974][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.01-04.51.08:209][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.01-04.51.08:213][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.01-04.51.08:234][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.01-04.51.08:237][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.01-04.51.08:248][  0]LogSlate: Took 0.005032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.01-04.51.08:352][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.10.01-04.51.08:474][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.01-04.51.08:474][  0]LogLoad: (Engine Initialization) Total time: 10.78 seconds
+[2019.10.01-04.51.08:474][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.01-04.51.08:484][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.01-04.51.08:505][  0]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.01-04.51.08:505][  0]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/', and we were unable to create a new request.
+[2019.10.01-04.51.08:506][  0]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.01-04.51.08:506][  0]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/Developers/s192125/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.01-04.51.08:506][  0]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.01-04.51.08:508][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.01-04.51.08:558][  0]LogSlate: Took 0.005367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.01-04.51.08:588][  1]LogAssetRegistry: Asset discovery search completed in 5.8314 seconds
+[2019.10.01-04.51.08:590][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.10.01-04.51.08:590][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.10.01-04.51.08:590][  1]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.01-04.51.08:591][  1]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Collections/', and we were unable to create a new request.
+[2019.10.01-04.51.08:591][  1]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/Developers/s192125/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.01-04.51.08:591][  1]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/Developers/s192125/Collections/', and we were unable to create a new request.
+[2019.10.01-04.51.08:591][  1]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.01-04.51.08:592][  1]LogDirectoryWatcher: A directory notification failed for 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/Collections/', and we were unable to create a new request.
+[2019.10.01-04.52.20:663][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-04.52.22:155][804]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.01-04.52.25:475][804]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.01-04.53.18:488][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-04.53.32:035][685]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/MyDamager.MyDamager
+[2019.10.01-04.53.32:538][685]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2019.10.01-04.53.33:557][685]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.10.01-04.53.38:868][113]LogSlate: Took 0.004670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.01-04.54.09:876][748]BlueprintLog: New page: Compile MyDamager
+[2019.10.01-04.54.28:293][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.01-04.54.29:319][503]LogEditorViewport: Clicking on Actor (LMB): MyDamager_C (MyDamager)
+[2019.10.01-04.55.01:390][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-04.55.01:785][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Maps/Level_1" FILE="L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.01-04.55.02:677][187]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Level_165A2E2C248F779180EB0F490F8E331EF.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Maps/Level_1.umap'
+[2019.10.01-04.55.02:731][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Maps/Level_1_BuiltData" FILE="L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2019.10.01-04.55.02:850][187]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Level_1_BuiltData35DADFE647418B8BA52F9AB04DFDD029.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Maps/Level_1_BuiltData.uasset'
+[2019.10.01-04.57.31:998][367]BlueprintLog: New page: Compile MyDamager
+[2019.10.01-04.57.33:044][438]LogSlate: Took 0.006387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.01-05.00.36:253][603]BlueprintLog: New page: Compile MyDamager
+[2019.10.01-05.00.48:327][885]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.01-05.00.48:349][885]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/__MyContent/Maps/Level_1.Level_C' with ClassGeneratedBy '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.10.01-05.00.48:349][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-05.00.48:362][885]PIE: New page: PIE session: Level_1 (Oct 2, 2019, 1:00:48 AM)
+[2019.10.01-05.00.48:362][885]LogPlayLevel: Creating play world package: /Game/__MyContent/Maps/UEDPIE_0_Level_1
+[2019.10.01-05.00.48:367][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005117s)
+[2019.10.01-05.00.48:368][885]LogAIModule: Creating AISystem for world Level_1
+[2019.10.01-05.00.48:368][885]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2019.10.01-05.00.48:369][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/__MyContent/Maps/Level_1.Level_1 to /Game/__MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.006267s)
+[2019.10.01-05.00.48:417][885]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-05.00.48:426][885]LogInit: FAudioDevice initialized.
+[2019.10.01-05.00.48:434][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-05.00.48:490][885]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.01-05.00.48:493][885]LogWorld: Bringing World /Game/__MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.10.01-15.00.48
+[2019.10.01-05.00.48:494][885]LogWorld: Bringing up level for play took: 0.002497
+[2019.10.01-05.00.48:517][885]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 10 classes and 0 folders.
+[2019.10.01-05.00.48:525][885]PIE: Play in editor start time for /Game/__MyContent/Maps/UEDPIE_0_Level_1 0.966
+[2019.10.01-05.00.48:525][885]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/__MyContent/Maps/Level_1.Level_C' with ClassGeneratedBy '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.10.01-05.00.48:591][885]LogRenderer: Reallocating scene render targets to support 1612x936 Format 10 NumSamples 1 (Frame:1).
+[2019.10.01-05.00.56:240][713]LogBlueprintUserMessages: [MyDamager_2] Event
+[2019.10.01-05.00.56:491][740]LogBlueprintUserMessages: [MyDamager_2] Leave
+[2019.10.01-05.00.59:060][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-05.00.59:193][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-05.00.59:193][ 42]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/__MyContent/Maps/Level_1.Level_C' with ClassGeneratedBy '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.10.01-05.00.59:509][ 42]LogSlate: Window 'PlatformerTutorial Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-05.00.59:543][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-05.00.59:544][ 42]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/__MyContent/Maps/Level_1.Level_C' with ClassGeneratedBy '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.10.01-05.00.59:595][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.01-05.05.11:859][ 69]BlueprintLog: New page: Compile MyDamager
+[2019.10.01-05.05.12:481][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Blueprints/MyDamager" FILE="L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Blueprints/MyDamager.uasset" SILENT=true
+[2019.10.01-05.05.12:673][111]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/MyDamager186D6A0C4AF6379000B5139D5CF6AB97.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Blueprints/MyDamager.uasset'
+[2019.10.01-05.06.53:581][867]LogSlate: Took 0.005456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.10.01-05.07.56:104][645]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Level_1_Auto1055FFC1340038A4AB2590390A40935A6.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Autosaves/Game/__MyContent/Maps/Level_1_Auto1.umap'
+[2019.10.01-05.07.56:127][645]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/__MyContent/Maps/Level_1' took 0.916
+[2019.10.01-05.07.56:127][645]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.916
+[2019.10.01-05.07.56:129][645]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__MyContent/Blueprints/MyDamager] ([1] browsable assets)...
+[2019.10.01-05.07.56:129][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/__MyContent/Blueprints/MyDamager]
+[2019.10.01-05.07.56:248][645]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/MyDamager_Auto17F25F5534D938E1183CE598357023C06.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Autosaves/Game/__MyContent/Blueprints/MyDamager_Auto1.uasset'
+[2019.10.01-05.07.56:342][645]LogFileHelpers: Auto-saving content packages took 0.214
+[2019.10.01-05.09.06:531][694]BlueprintLog: New page: Compile MyDamager
+[2019.10.01-05.11.02:200][355]BlueprintLog: New page: Compile MyDamager
+[2019.10.01-05.11.02:770][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Blueprints/MyDamager" FILE="L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Blueprints/MyDamager.uasset" SILENT=true
+[2019.10.01-05.11.02:993][385]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/MyDamager6B6D07884F57C481C2A181AFEFE991DE.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Blueprints/MyDamager.uasset'
+[2019.10.01-05.11.11:675][165]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.01-05.11.11:697][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/__MyContent/Maps/Level_1.Level_C' with ClassGeneratedBy '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.10.01-05.11.11:697][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.01-05.11.11:697][165]PIE: New page: PIE session: Level_1 (Oct 2, 2019, 1:11:11 AM)
+[2019.10.01-05.11.11:697][165]LogPlayLevel: Creating play world package: /Game/__MyContent/Maps/UEDPIE_0_Level_1
+[2019.10.01-05.11.11:702][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005060s)
+[2019.10.01-05.11.11:703][165]LogAIModule: Creating AISystem for world Level_1
+[2019.10.01-05.11.11:703][165]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2019.10.01-05.11.11:703][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/__MyContent/Maps/Level_1.Level_1 to /Game/__MyContent/Maps/UEDPIE_0_Level_1.Level_1 (0.006124s)
+[2019.10.01-05.11.11:731][165]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.01-05.11.11:741][165]LogInit: FAudioDevice initialized.
+[2019.10.01-05.11.11:749][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-05.11.11:791][165]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.01-05.11.11:794][165]LogWorld: Bringing World /Game/__MyContent/Maps/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2019.10.01-15.11.11
+[2019.10.01-05.11.11:794][165]LogWorld: Bringing up level for play took: 0.002144
+[2019.10.01-05.11.11:814][165]PIE: Play in editor start time for /Game/__MyContent/Maps/UEDPIE_0_Level_1 0.255
+[2019.10.01-05.11.11:815][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/__MyContent/Maps/Level_1.Level_C' with ClassGeneratedBy '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.10.01-05.11.16:971][715]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.16:980][716]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.16:989][717]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.16:999][718]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:007][719]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:017][720]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:026][721]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:035][722]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:044][723]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:053][724]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:062][725]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:071][726]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:080][727]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:089][728]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:099][729]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:107][730]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:117][731]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:126][732]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:135][733]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:144][734]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:153][735]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:162][736]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:171][737]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:180][738]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:190][739]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:199][740]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.17:209][741]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.20:949][157]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.20:958][158]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.20:967][159]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.20:976][160]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.20:986][161]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.20:995][162]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:004][163]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:013][164]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:023][165]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:032][166]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:041][167]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:050][168]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:059][169]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:068][170]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:077][171]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:086][172]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:095][173]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:105][174]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:113][175]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:122][176]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:132][177]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:141][178]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:150][179]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:159][180]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:168][181]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:177][182]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.21:186][183]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:105][285]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:114][286]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:123][287]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:132][288]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:141][289]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:150][290]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:159][291]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:168][292]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:177][293]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:187][294]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:196][295]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:205][296]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:214][297]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:223][298]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:233][299]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:242][300]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:251][301]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:260][302]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:269][303]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:278][304]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:287][305]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:296][306]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:305][307]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:314][308]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:323][309]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:332][310]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:341][311]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:350][312]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:358][313]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:367][314]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:376][315]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:385][316]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:394][317]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:403][318]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:411][319]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:421][320]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:429][321]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:438][322]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:447][323]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:456][324]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:465][325]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:474][326]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:482][327]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:491][328]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:500][329]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:509][330]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:518][331]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:526][332]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:535][333]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:544][334]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:553][335]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:562][336]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:571][337]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:579][338]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:588][339]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:597][340]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:606][341]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:615][342]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:623][343]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:632][344]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:641][345]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:650][346]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:659][347]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:668][348]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:676][349]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:685][350]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:694][351]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:703][352]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:712][353]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:721][354]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:729][355]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:738][356]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:747][357]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:756][358]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:765][359]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:774][360]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:783][361]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:791][362]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:800][363]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:809][364]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:818][365]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:827][366]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:836][367]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:844][368]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:853][369]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:862][370]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:871][371]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:880][372]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:889][373]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:897][374]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:906][375]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:915][376]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:924][377]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:933][378]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:942][379]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:950][380]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:959][381]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:968][382]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:977][383]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:986][384]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.22:994][385]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:003][386]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:012][387]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:021][388]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:030][389]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:039][390]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:047][391]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:056][392]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:065][393]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:074][394]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:083][395]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:092][396]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:101][397]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:109][398]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:118][399]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:127][400]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:136][401]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:145][402]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:154][403]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:162][404]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:171][405]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:180][406]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:189][407]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:198][408]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:207][409]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:216][410]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:224][411]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:234][412]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:242][413]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:251][414]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:260][415]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:270][416]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:278][417]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:288][418]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:296][419]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:305][420]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:314][421]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:323][422]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:332][423]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:342][424]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:352][425]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:360][426]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:369][427]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:377][428]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:387][429]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:395][430]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:405][431]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:413][432]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:422][433]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:432][434]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:441][435]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:450][436]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:459][437]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:468][438]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:477][439]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:486][440]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:495][441]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:505][442]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:513][443]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:522][444]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:531][445]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:541][446]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:550][447]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:558][448]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:568][449]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:577][450]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:586][451]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:594][452]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:604][453]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:612][454]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:621][455]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:630][456]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:639][457]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:648][458]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:657][459]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:666][460]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:675][461]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:684][462]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:693][463]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:702][464]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:711][465]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:720][466]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:729][467]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:738][468]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:747][469]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:756][470]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:765][471]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:774][472]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:783][473]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:791][474]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:801][475]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:810][476]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:819][477]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:827][478]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:837][479]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:845][480]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:854][481]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:863][482]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:872][483]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:881][484]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:890][485]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:899][486]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:908][487]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:917][488]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:925][489]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:935][490]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:943][491]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:952][492]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:961][493]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:970][494]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:979][495]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:988][496]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.23:997][497]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:006][498]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:015][499]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:024][500]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:033][501]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:041][502]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:051][503]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:059][504]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:068][505]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:077][506]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:086][507]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:095][508]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:104][509]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:113][510]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:122][511]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:131][512]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:140][513]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:149][514]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:157][515]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:166][516]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:175][517]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:184][518]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:193][519]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:202][520]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:211][521]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:220][522]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:229][523]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:238][524]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:246][525]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:256][526]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:264][527]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:273][528]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:282][529]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:291][530]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:300][531]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:309][532]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:318][533]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:327][534]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:336][535]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:345][536]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:354][537]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:363][538]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:372][539]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:381][540]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:390][541]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:399][542]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:408][543]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:418][544]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:426][545]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:436][546]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:445][547]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:455][548]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:464][549]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:473][550]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:483][551]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:492][552]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:501][553]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:510][554]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:520][555]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:529][556]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:538][557]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:547][558]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:557][559]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:566][560]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:575][561]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:584][562]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:593][563]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:602][564]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:611][565]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:621][566]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:632][567]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:641][568]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:650][569]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:659][570]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:669][571]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:677][572]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:687][573]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:696][574]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:705][575]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:714][576]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:723][577]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:732][578]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:742][579]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:751][580]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:760][581]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:769][582]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:778][583]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:787][584]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:796][585]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:805][586]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:815][587]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:823][588]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:833][589]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:842][590]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:852][591]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:861][592]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:870][593]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:879][594]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:888][595]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:897][596]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:906][597]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:915][598]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:924][599]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:933][600]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:942][601]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:951][602]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:960][603]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:969][604]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:978][605]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:987][606]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.24:996][607]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:005][608]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:014][609]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:023][610]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:032][611]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:041][612]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:050][613]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:059][614]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:068][615]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:077][616]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:086][617]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:095][618]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:104][619]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:113][620]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:122][621]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:131][622]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:140][623]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:149][624]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:158][625]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:167][626]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:176][627]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:185][628]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:193][629]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:203][630]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:211][631]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:220][632]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:229][633]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:238][634]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:247][635]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:256][636]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:265][637]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:274][638]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:283][639]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:292][640]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:302][641]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:310][642]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:320][643]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:329][644]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:337][645]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:346][646]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:355][647]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:364][648]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:373][649]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:382][650]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:391][651]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:400][652]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:409][653]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:418][654]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:427][655]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:436][656]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:444][657]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:454][658]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:462][659]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:471][660]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:480][661]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:490][662]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:498][663]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:507][664]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:517][665]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:525][666]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:534][667]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:543][668]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:552][669]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:561][670]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:570][671]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:579][672]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:588][673]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:597][674]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:606][675]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:615][676]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:624][677]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:633][678]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:642][679]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:651][680]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:660][681]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:669][682]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:677][683]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:687][684]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:695][685]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:705][686]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:713][687]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:722][688]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:732][689]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:740][690]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:749][691]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:758][692]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:767][693]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:776][694]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:785][695]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:794][696]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:803][697]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:813][698]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:821][699]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:830][700]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:839][701]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:848][702]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:857][703]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:866][704]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:875][705]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:884][706]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:893][707]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:902][708]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:911][709]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:920][710]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:929][711]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:938][712]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:947][713]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:956][714]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:965][715]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:974][716]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:984][717]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.25:993][718]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:002][719]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:010][720]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:020][721]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:028][722]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:037][723]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:046][724]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:055][725]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:064][726]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:073][727]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:082][728]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:090][729]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:099][730]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:108][731]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:117][732]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:126][733]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:135][734]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:144][735]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:153][736]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:161][737]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:170][738]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:179][739]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:188][740]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:197][741]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:206][742]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:215][743]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:224][744]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:233][745]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:242][746]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:251][747]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:259][748]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:268][749]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:277][750]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:286][751]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:295][752]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:304][753]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:313][754]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:322][755]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:330][756]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:339][757]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:349][758]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:357][759]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:366][760]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:375][761]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:384][762]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:393][763]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:402][764]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:411][765]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:420][766]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:428][767]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:437][768]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:446][769]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:455][770]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:464][771]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:473][772]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:482][773]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:490][774]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:499][775]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:508][776]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:517][777]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:526][778]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:535][779]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:544][780]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:553][781]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:562][782]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:571][783]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:579][784]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:588][785]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:597][786]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:606][787]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:615][788]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:624][789]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:633][790]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:642][791]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:651][792]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:660][793]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:669][794]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:677][795]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:687][796]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:695][797]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:704][798]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:713][799]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:722][800]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:731][801]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:740][802]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:749][803]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:757][804]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:766][805]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:775][806]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:784][807]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:793][808]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:802][809]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:811][810]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:820][811]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:828][812]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:838][813]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:846][814]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:855][815]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:864][816]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:873][817]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:882][818]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:890][819]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:900][820]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:908][821]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:917][822]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:926][823]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:935][824]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:944][825]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:953][826]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:962][827]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:971][828]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:980][829]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:988][830]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.26:997][831]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:006][832]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:016][833]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:024][834]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:033][835]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:042][836]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:051][837]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:060][838]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:069][839]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:078][840]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:087][841]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:096][842]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:105][843]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:114][844]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:123][845]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:132][846]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:141][847]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:150][848]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:159][849]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:168][850]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:177][851]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:186][852]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:195][853]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:204][854]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:214][855]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:223][856]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:232][857]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:241][858]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:250][859]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:259][860]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:267][861]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:276][862]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:285][863]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:294][864]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:303][865]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:312][866]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:321][867]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:330][868]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:339][869]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:348][870]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:357][871]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:365][872]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:374][873]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:383][874]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:392][875]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:401][876]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:410][877]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:419][878]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:428][879]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:438][880]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:446][881]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:455][882]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:464][883]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:472][884]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:481][885]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:490][886]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:499][887]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:508][888]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:517][889]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:526][890]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:535][891]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:544][892]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:553][893]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:561][894]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:573][895]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:583][896]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:592][897]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:601][898]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:609][899]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:617][900]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:627][901]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:635][902]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:644][903]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:652][904]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:661][905]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:669][906]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:678][907]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:686][908]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:695][909]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:704][910]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:712][911]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:721][912]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:730][913]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:739][914]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:748][915]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:757][916]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:766][917]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:775][918]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:783][919]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:792][920]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:801][921]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:810][922]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:819][923]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:828][924]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:837][925]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:846][926]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:855][927]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:863][928]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:872][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.01-05.11.27:873][929]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:882][930]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:890][931]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:899][932]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:908][933]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:917][934]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:927][935]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:936][936]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:944][937]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:953][938]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:961][939]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:971][940]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:979][941]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:988][942]LogBlueprintUserMessages: [MyDamager_2] My Player
+[2019.10.01-05.11.27:997][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.01-05.11.27:997][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/__MyContent/Maps/Level_1.Level_C' with ClassGeneratedBy '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.10.01-05.11.28:014][943]LogSlate: Window 'PlatformerTutorial Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.01-05.11.28:047][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.01-05.11.28:047][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel' has LevelScriptBlueprint '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1' with GeneratedClass '/Game/__MyContent/Maps/Level_1.Level_C' with ClassGeneratedBy '/Game/__MyContent/Maps/Level_1.Level_1:PersistentLevel.Level_1'
+[2019.10.01-05.11.28:114][944]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.01-05.13.36:387][603]BlueprintLog: New page: Compile MyDamager
+[2019.10.01-05.14.30:129][374]BlueprintLog: New page: Compile MyDamager
+[2019.10.01-05.17.41:108][184]BlueprintLog: New page: Compile MyDamager
+[2019.10.01-05.17.42:579][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Blueprints/MyDamager" FILE="L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Blueprints/MyDamager.uasset" SILENT=true
+[2019.10.01-05.17.42:888][294]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/MyDamager74FC429141BEC0C7B2817F8B9EC8106F.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Blueprints/MyDamager.uasset'
+[2019.10.01-05.18.13:704][ 14]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Level_1_Auto2230BA9754FF3BF2409283384EAD59EC9.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Autosaves/Game/__MyContent/Maps/Level_1_Auto2.umap'
+[2019.10.01-05.18.13:728][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/__MyContent/Maps/Level_1' took 0.993
+[2019.10.01-05.18.13:728][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.993
+[2019.10.01-05.31.40:031][356]BlueprintLog: New page: Compile MyDamager
+[2019.10.01-05.31.41:215][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Blueprints/MyDamager" FILE="L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Blueprints/MyDamager.uasset" SILENT=true
+[2019.10.01-05.31.41:538][460]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/MyDamager1F241FB246FEFD2D60C85A8B6D5FF540.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Blueprints/MyDamager.uasset'
+[2019.10.01-05.31.43:360][651]LogSlate: Window 'MyDamager' being destroyed
+[2019.10.01-05.31.43:363][651]LogSlate: Window 'MyDamager' being destroyed
+[2019.10.01-05.31.52:123][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Maps/Level_1" FILE="L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Maps/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.01-05.31.53:039][689]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Level_150074C884044F224AFA9778A6B320FF9.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Maps/Level_1.umap'
+[2019.10.01-05.31.53:095][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Maps/Level_1_BuiltData" FILE="L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Maps/Level_1_BuiltData.uasset" SILENT=true
+[2019.10.01-05.31.53:229][689]LogSavePackage: Moving 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Saved/Level_1_BuiltDataEA03DEDA4BD990A08940CB9057D21FC1.tmp' to 'L:/RepositoryName/RepositoryName/PlatformerTutorial/Content/__MyContent/Maps/Level_1_BuiltData.uasset'
+[2019.10.01-05.31.54:678][827]LogSlate: Window 'PlatformerTutorial - Unreal Editor' being destroyed
+[2019.10.01-05.31.54:678][827]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.01-05.31.54:867][828]Cmd: QUIT_EDITOR
+[2019.10.01-05.31.55:001][828]LogExit: Preparing to exit.
+[2019.10.01-05.31.56:048][828]LogExit: Editor shut down
+[2019.10.01-05.31.56:049][828]LogExit: Transaction tracking system shut down
+[2019.10.01-05.31.56:602][828]LogExit: Object subsystem successfully closed.
+[2019.10.01-05.31.56:622][828]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.01-05.31.56:626][828]LogD3D11RHI: Shutdown
+[2019.10.01-05.31.56:626][828]LogD3D11RHI: CleanupD3DDevice
+[2019.10.01-05.31.56:627][828]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.10.01-05.31.56:648][828]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.10.01-05.31.56:649][828]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.10.01-05.31.56:650][828]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.10.01-05.31.56:650][828]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.10.01-05.31.56:650][828]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.10.01-05.31.56:650][828]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.10.01-05.31.56:650][828]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.10.01-05.31.56:650][828]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.10.01-05.31.58:071][828]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.10.01-05.31.58:071][828]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.10.01-05.31.58:071][828]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.10.01-05.31.58:071][828]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.10.01-05.31.58:071][828]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.10.01-05.31.58:071][828]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.10.01-05.31.58:071][828]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.10.01-05.31.58:071][828]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.10.01-05.31.58:072][828]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.10.01-05.31.58:137][828]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.10.01-05.31.58:137][828]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.10.01-05.31.58:137][828]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.10.01-05.31.58:137][828]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.10.01-05.31.58:137][828]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.10.01-05.31.58:137][828]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.10.01-05.31.58:137][828]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.10.01-05.31.58:137][828]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.10.01-05.31.58:137][828]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.10.01-05.31.58:137][828]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.10.01-05.31.58:142][828]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.10.01-05.31.58:142][828]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.10.01-05.31.58:143][828]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.10.01-05.31.58:324][828]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.10.01-05.31.58:324][828]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.10.01-05.31.58:324][828]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.10.01-05.31.58:324][828]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.10.01-05.31.58:324][828]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.10.01-05.31.58:324][828]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.10.01-05.31.58:324][828]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.10.01-05.31.58:324][828]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.10.01-05.31.58:324][828]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.10.01-05.31.58:324][828]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.10.01-05.31.58:325][828]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.10.01-05.31.58:325][828]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.10.01-05.31.58:325][828]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.10.01-05.31.58:325][828]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.10.01-05.31.58:325][828]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.10.01-05.31.58:325][828]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.10.01-05.31.58:325][828]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.10.01-05.31.58:325][828]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.10.01-05.31.58:328][828]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.01-05.31.58:331][828]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.01-05.31.58:332][828]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.01-05.31.58:433][828]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.01-05.31.58:533][828]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.10.01-05.31.58:533][828]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.10.01-05.31.58:533][828]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.10.01-05.31.58:533][828]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.10.01-05.31.58:533][828]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.10.01-05.31.58:533][828]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.10.01-05.31.58:533][828]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.10.01-05.31.58:534][828]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.10.01-05.31.58:534][828]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.10.01-05.31.58:534][828]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.10.01-05.31.58:534][828]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.10.01-05.31.58:535][828]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.10.01-05.31.58:535][828]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.10.01-05.31.58:535][828]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.01-05.31.58:535][828]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.10.01-05.31.58:536][828]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.10.01-05.31.58:536][828]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.10.01-05.31.58:536][828]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.10.01-05.31.58:537][828]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.10.01-05.31.58:543][828]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.10.01-05.31.58:544][828]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.10.01-05.31.58:544][828]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.10.01-05.31.58:545][828]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.10.01-05.31.58:620][828]LogDerivedDataCache: Shutdown
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.10.01-05.31.58:620][828]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.10.01-05.31.58:621][828]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.10.01-05.31.58:621][828]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.10.01-05.31.58:621][828]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.10.01-05.31.58:621][828]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.10.01-05.31.58:621][828]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.10.01-05.31.58:621][828]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.10.01-05.31.58:622][828]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.10.01-05.31.58:622][828]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.10.01-05.31.58:627][828]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.10.01-05.31.58:627][828]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.10.01-05.31.58:627][828]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.10.01-05.31.58:627][828]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.10.01-05.31.58:627][828]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.10.01-05.31.58:627][828]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.10.01-05.31.58:627][828]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.10.01-05.31.58:627][828]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.10.01-05.31.58:627][828]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.10.01-05.31.58:627][828]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.10.01-05.31.58:628][828]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.10.01-05.31.58:628][828]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.01-05.31.58:628][828]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.10.01-05.31.58:628][828]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.10.01-05.31.58:628][828]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.10.01-05.31.58:628][828]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.10.01-05.31.58:628][828]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.10.01-05.31.58:628][828]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.10.01-05.31.58:628][828]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.10.01-05.31.58:629][828]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.10.01-05.31.58:654][828]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.10.01-05.31.58:654][828]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.01-05.31.58:654][828]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9D641355-4F1C-9B79-EE9C-48896B872566%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=c233df6248ab32e6c2f8a797836fa389%7C%7Cd1036ffa-9e7d-4a3b-b795-a3bd735ab853&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.01-05.31.58:685][828]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.10.01-05.31.58:686][828]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.10.01-05.31.58:686][828]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.10.01-05.31.58:686][828]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.10.01-05.31.58:686][828]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.10.01-05.31.58:686][828]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.10.01-05.31.58:686][828]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.10.01-05.31.58:686][828]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.10.01-05.31.58:687][828]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.10.01-05.31.58:687][828]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.10.01-05.31.58:687][828]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.01-05.31.58:687][828]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.10.01-05.31.58:687][828]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.10.01-05.31.58:687][828]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.10.01-05.31.58:687][828]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.10.01-05.31.58:687][828]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.10.01-05.31.58:687][828]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.10.01-05.31.58:687][828]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.10.01-05.31.58:687][828]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.10.01-05.31.58:688][828]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.10.01-05.31.58:693][828]LogExit: Exiting.
+[2019.10.01-05.31.58:703][828]Log file closed, 10/01/19 15:31:58
